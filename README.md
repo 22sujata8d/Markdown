@@ -117,7 +117,7 @@ Links
 
 -------------
 
-    MARKDOWN 
+    Markdown 
     For Links/Url :
                    For linking text to a url : [text](url-of-the-page)
                    For direct links : <url-of-the-page>
