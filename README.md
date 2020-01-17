@@ -17,7 +17,7 @@ For learning .md way of writing things :)
 
 --------
 
-Image
+:diamond_shape_with_a_dot_inside: Image 
 ------
 
 
@@ -30,7 +30,7 @@ Image
 
 ---------
 
-Paragraph text
+:diamond_shape_with_a_dot_inside: Paragraph text 
 --------------
 
 **BOLD TEXT**
@@ -51,7 +51,7 @@ Inline Code `print("Hola!! Mucho Gusto")`
     
 -------------
 
-Creating Lists
+:diamond_shape_with_a_dot_inside: Creating Lists 
 --------------
 ### Unordered List
 * Python
@@ -75,7 +75,7 @@ Creating Lists
       
 ---------------
 
-Code Snippet
+:diamond_shape_with_a_dot_inside: Code Snippet 
 ------------
 
     def wish_greeting(name, lang):
@@ -93,7 +93,7 @@ Code Snippet
     
 -------------
 
-Tasks
+:diamond_shape_with_a_dot_inside: Tasks 
 -----
 
 - [ ] ordered lists
@@ -110,7 +110,7 @@ Tasks
                     
 --------------
 
-Table
+:diamond_shape_with_a_dot_inside: Table 
 ------
 
 | Column1    | Column2   | Column3   | Column4   |
@@ -136,7 +136,7 @@ Table
               
 ------------
    
-Links
+:diamond_shape_with_a_dot_inside: Links 
 -----
 - Direct Link : <https://github.com/>
 - Link embedded in text : [Github](https://github.com/)
@@ -150,7 +150,7 @@ Links
                         
 --------
 
-References :
+:diamond_shape_with_a_dot_inside: References :
 ----------
 - **Stackoverflow**: [Adding image in Markdown](https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github)
 - **Image source** : <https://unsplash.com/photos/m_HRfLhgABo>
